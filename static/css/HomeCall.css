@@ -1,0 +1,5 @@
+.tect,
+.img{
+    display: grid;
+    place-items: center;
+}
